@@ -4,9 +4,11 @@
 STAGES is an open-source, privacy-first AI education platform designed to amplify teachers, personalize learning for every student, and eliminate AI hallucinations through a deterministic fact-grounding engine.  
 It can be deployed on a school’s existing servers, on a teacher’s home machine, or in the cloud, and is architected for maximum flexibility, transparency, and autonomy.
 
-> STAGES does **not** replace teachers.  
-> **It empowers them!**
-
+---
+ 
+STAGES does **not** replace teachers.  
+It empowers them!
+ 
 ---
 
 # **Table of Contents**
